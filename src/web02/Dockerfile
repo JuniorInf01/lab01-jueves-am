@@ -4,5 +4,5 @@ COPY index.html /usr/share/nginx/html/index.html
 
 EXPOSE 80
 
-# docker build -t lab/web .
-# docker run -p 4001:80 lab/web
+# docker build -t lab/web02 .
+# docker run -p 4001:80 lab/web02
